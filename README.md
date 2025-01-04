@@ -1,6 +1,6 @@
 # BP2CPP Documentation
 
-STEP 1. Install the plugin from the FAB marketplace
+STEP 1. Install the plugin from the FAB marketplace [here](https://www.fab.com/listings/6d85682d-e605-4025-8918-496fb7366eb4)
 
 STEP 2. Open up your UE project and enable the BP2CPP plugin
 
