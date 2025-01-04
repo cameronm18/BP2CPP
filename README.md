@@ -16,3 +16,6 @@ STEP 6. Override Menu will appear, you can leave this totally blank if you wish 
 STEP 7. Click on the green "OK" button to start the conversion. Wait for automatic recompile/hot reload about ~1 minute.
 
 STEP 8. Reap time saving benefits!!
+
+
+[Support Discord](https://discord.gg/xEzF5Y9c)
